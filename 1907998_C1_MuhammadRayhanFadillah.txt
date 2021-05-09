@@ -1,0 +1,20 @@
+Janji :
+	saya Muhammad Rayhan Fadillah mengerjakan TP5PBO2021 dalam mata kuliah Desain dan
+	Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan
+	kecurangan seperti yang telah dispesifikasikan.Aamiin.
+
+Detail tugas:
+ - Buatlah mode 2 player dari game ini dengan kontrol menggunakan keyboard.
+ - Buatlah musuh dengan ketentuan musuh dapat berjalan otomatis dan apabila player menyentuh musuh maka game akan selesai. (sudah)
+ - Buatlah nilai score dan penambahan waktu yang didapatkan dari item menjadi random. (sudah)
+ - Apabila item sudah habis, maka akan dirender secara otomatis (koordinat dibuat random). (sudah)
+ - Apabila data baru merupakan username yang sudah ada di database, maka otomatis data akan terupdate berdasarkan skor yang lebih besar. (sudah)
+ - Pada tabel highscore, lama waktu hingga game over akan dicantumkan dan menjadi acuan untuk penambahan score (Score akhir = score game + waktu). (sudah)
+ - Terdapat 3 kesulitan, yaitu easy, normal, dan hard. (belum, kecepatan musuh dibuat random)
+ -  Tuliskan nama dan nim pada window menu, untuk posisi dibebaskan.(sudah)
+ - Game mempunyai BGM (Background Music) pada saat pertama kali dibuka (bukan pada main menu). Catatan: file yang didukung pada project ini adalah file dengan format .wav. (sudah)
+
+===
+Janji ditulis dalam bentuk file txt.
+Kirimkan juga database yang kalian buat dalam bentuk file format sql.
+===
